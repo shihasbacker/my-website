@@ -1,0 +1,16 @@
+#header-section{
+    background-color: #ffffff;
+}
+.img-fluid {
+    max-width: 25%;
+    height: auto;
+  }
+#name-div{
+    font-family: Microsoft New Tai Lue;
+}
+#my-website{
+    font-family: Segoe UI;
+}
+#com-div{
+    font-family: SimHei;
+}
