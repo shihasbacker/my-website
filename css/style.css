@@ -2,7 +2,7 @@
     background-color: #ffffff;
 }
 .img-fluid {
-    max-width: 25%;
+    max-width: 44vh;
     height: auto;
   }
 #name-div{
@@ -32,4 +32,12 @@
 .contact-btn:hover {
     background-color: #666666;
   }
+  
+.main-wrapper {
+    height: 84vh;  
+    justify-content: center;
+    align-items: center;
+  }
+
+
 
